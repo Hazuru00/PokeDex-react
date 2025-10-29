@@ -1,5 +1,3 @@
 # PokeDex-react
-
-{TIP}
-> xd
-> xddd
+XD
+> tamere men
